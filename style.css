@@ -9,7 +9,9 @@ h1 {
   width: 50%;
 }
 
-nav
+nav a {
+  padding: ;
+}
 
 .living-room {
   display: block;
