@@ -30,6 +30,7 @@ nav a:hover {
 figcaption {
   font-size: small;
   text-align: center;
+  margin: 0 auto;
 }
 
 #featured-property p {
